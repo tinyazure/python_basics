@@ -11,3 +11,7 @@ You will learn how to run arimetic and string commads and understand the differe
 You will run a small block of code. You will use:    
 --variables, input, print  
 [Go to Code](https://github.com/tinyazure/python_basics/blob/main/Challenge%202_%20Inputing%20Data.ipynb)
+## Challenge 3: run a code for Patient Record
+Integrating previous commands:         
+Aritmetic Functions, Variables, Print(), Input()  
+[Go to Code](https://github.com/tinyazure/python_basics/blob/main/Challenge%202_%20Inputing%20Data.ipynb)
