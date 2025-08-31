@@ -9,5 +9,5 @@ You will learn how to run arimetic and string commads and understand the differe
 [Go to Code]([path/to/your/file.ext](https://github.com/tinyazure/python_basics/blob/main/Challenge%201_%20Create%20a%20Patient%20Report.ipynb))
 ## Challenge 2: Inputing & Displaying Data
 You will run a small block of code. You will use:    
---variables, input, print
+--variables, input, print  
 [Go to Code](https://github.com/tinyazure/python_basics/blob/main/Challenge%202_%20Inputing%20Data.ipynb)
