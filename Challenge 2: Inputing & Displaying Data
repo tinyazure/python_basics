@@ -1,0 +1,77 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP8Hev3S/unlX1Zq6gWX3dt",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/tinyazure/python_basics/blob/main/Challenge%202%3A%20Inputing%20%26%20Displaying%20Data\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "S_KYYht3wKlk"
+      },
+      "outputs": [],
+      "source": [
+        "# Declaramos algunas variables y mostramos su contenido\n",
+        "\n",
+        "nombre = \"Mariana\"\n",
+        "edad = 30\n",
+        "altura = 1.68\n",
+        "es_estudiante = True\n",
+        "\n",
+        "print(\"Nombre:\", nombre)\n",
+        "print(\"Edad:\", edad)\n",
+        "print(\"Altura:\", altura)\n",
+        "print(\"¿Es estudiante?:\", es_estudiante)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "96f1m3by4iGt",
+        "outputId": "e39a56b6-0afb-438c-9e95-4e251d2b0463"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Por favor, ingresá tu nombre: Juan\n",
+            "¡Hola, Juan! Bienvenide a TechLab 🚀\n"
+          ]
+        }
+      ],
+      "source": [
+        "\n",
+        "nombre = input(\"Por favor, ingresá tu nombre: \")\n",
+        "print(\"¡Hola,\", nombre + \"! Bienvenido/a a TechLab!\")\n"
+      ]
+    }
+  ]
+}
