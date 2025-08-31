@@ -10,3 +10,4 @@ You will learn how to run arimetic and string commads and understand the differe
 ## Challenge 2: Inputing & Displaying Data
 You will run a small block of code. You will use:    
 --variables, input, print
+[Go to Code](https://github.com/tinyazure/python_basics/blob/main/Challenge%202_%20Inputing%20Data.ipynb)
